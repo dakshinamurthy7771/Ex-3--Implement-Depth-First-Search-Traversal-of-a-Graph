@@ -1,8 +1,8 @@
 # Ex-3-Implement-Depth-First-Search-Traversal-of-a-Graph
 
-**Name:**
+**Name:**Dakshina murthy.V
 
-**Register Number:**
+**Register Number:**2305001006
 
 ### Aim:
 To Implement Depth First Search Traversal of a Graph using Python 3.
